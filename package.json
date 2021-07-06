@@ -1,0 +1,43 @@
+{
+	"author": {
+		"email": "mike@mikekreuzer.com",
+		"name": "Mike Kreuzer"
+	},
+	"bin": "bin/jerbs.js",
+	"bugs": {
+		"url": "https://github.com/mikekreuzer/jerbs/issues"
+	},
+	"dependencies": {},
+	"description": "The simple build system. They took our jerbs!",
+	"devDependencies": {
+		"eslint": "^7.30.0",
+		"eslint-config-prettier": "^8.3.0",
+		"jest": "^27.0.6",
+		"prettier": "^2.3.2"
+	},
+	"homepage": "https://github.com/mikekreuzer/jerbs#readme",
+	"keywords": [
+		"build",
+		"system",
+		"make",
+		"rake",
+		"jake",
+		"gulp",
+		"grunt",
+		"tool",
+		"task",
+		"job"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"name": "jerbs",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mikekreuzer/jerbs.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified... yet!\" && exit 1"
+	},
+	"type": "module",
+	"version": "0.0.1"
+}
