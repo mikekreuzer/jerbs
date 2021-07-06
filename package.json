@@ -33,9 +33,7 @@
 	"name": "jerbs",
 	"np": {
 		"branch": "main",
-		"releaseDraft": false,
-		"yarn": false,
-		"2fa": false
+		"yarn": false
 	},
 	"repository": {
 		"type": "git",
