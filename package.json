@@ -31,6 +31,12 @@
 	"license": "MIT",
 	"main": "index.js",
 	"name": "jerbs",
+	"np": {
+		"branch": "main",
+		"releaseDraft": false,
+		"yarn": false,
+		"2fa": false
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/mikekreuzer/jerbs.git"
