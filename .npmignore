@@ -1,2 +1,5 @@
+_ignore
+_IGNORE
+
 node_modules
 build/Release
