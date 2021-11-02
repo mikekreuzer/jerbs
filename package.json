@@ -16,6 +16,10 @@
 		"prettier": "^2.3.2"
 	},
 	"homepage": "https://github.com/mikekreuzer/jerbs#readme",
+	"jest": {
+		"transform": {},
+		"verbose": true
+	},
 	"keywords": [
 		"build",
 		"system",
@@ -40,7 +44,7 @@
 		"url": "git+https://github.com/mikekreuzer/jerbs.git"
 	},
 	"scripts": {
-		"test": "echo \"Error: no test specified... yet!\" && exit 0"
+		"test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
 	},
 	"type": "module",
 	"version": "0.0.9"
