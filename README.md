@@ -44,7 +44,7 @@ init.description = 'Do some setup things';
 async function run() {
 	console.log('Run has no arguments');
 }
-run.description = 'Do even things';
+run.description = 'Do even more things';
 
 export { init, run };
 ```
